@@ -4,8 +4,8 @@ body {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
-    top: 15%;
-	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+    padding-top: 15%;
+    background: linear-gradient(to right, #FF47E8, #ff0000); /* Standard syntax */
 }
 
 h1 {
